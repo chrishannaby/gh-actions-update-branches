@@ -1,0 +1,3 @@
+[build]
+  publish = "publish/"
+  ignore = "bash ./build-ignore.sh"
